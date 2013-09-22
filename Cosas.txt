@@ -1,0 +1,11 @@
+Cosas:
+
+Parámetros del JavaDoc PDF:
+
+-encoding UTF-8 -pdf "F:\Javier\Proyectos\Eclipse\PPM\JavaDoc.pdf" -config "F:\Javier\Proyectos\Eclipse\PPM\javapdf.properties"
+
+PDFDoclet: com.tarsec.javadoc.pdfdoclet.PDFDoclet
+
+Parámetros del JavaDoc estándar:
+
+-encoding UTF-8

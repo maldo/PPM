@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+<jar path="PPM/PPM.jar"/>
+<options buildIfNeeded="true" compress="true" descriptionLocation="/PPM/PPM.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+<storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+<selectedProjects/>
+<manifest generateManifest="false" mainClassHandleIdentifier="=PPM/&lt;org.cdi.ppm{PPM.java[PPM" manifestLocation="/PPM/PPM.manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+<sealing sealJar="false">
+<packagesToSeal/>
+<packagesToUnSeal/>
+</sealing>
+</manifest>
+<selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+<javaElement handleIdentifier="=PPM/&lt;org.cdi.ppm"/>
+<javaElement handleIdentifier="=PPM/&lt;de.tivano.flash.swf.common"/>
+</selectedElements>
+</jardesc>
